@@ -312,7 +312,7 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="ChauTien"
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8?bycoca
 #https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Kênh địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/BRT_logo_new.png/revision/latest/scale-to-width-down/340?cb=20200925113310&path-prefix=vi" tvg-chno="90",Vũng Tàu
+#EXTINF:0 group-title="Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_B%C3%A0_R%E1%BB%8Ba_-_V%C5%A9ng_T%C3%A0u_-_BRT.png" tvg-chno="90",Vũng Tàu
 #EXTVLCOPT:http-user-agent="ChauTien"
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 
@@ -353,10 +353,10 @@ https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Kênh địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/STV_logo_2004.png/revision/latest?cb=20201002101421&path-prefix=vi" tvg-chno="102",Sóc Trăng
 #EXTVLCOPT:http-user-agent="ChauTien"
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Kênh địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/6/65/20200129185123%21Logo_THTG.png" tvg-chno="103",Tiền Giang
+#EXTINF:0 group-title="Kênh địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/Logo_THTG.png/revision/latest?cb=20211022043436&path-prefix=vi" tvg-chno="103",Tiền Giang
 #EXTVLCOPT:http-user-agent="ChauTien"
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Kênh địa phương" tvg-logo="https://bvad.vn/wp-content/uploads/2018/03/Dai-Truyen-Hinh-Tra-Vinh.gif" tvg-chno="104",Trà Vinh
+#EXTINF:0 group-title="Kênh địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/THTV_Logo_2003.png/revision/latest?cb=20210721030012&path-prefix=vi" tvg-chno="104",Trà Vinh
 #EXTVLCOPT:http-user-agent="ChauTien"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 
@@ -854,11 +854,11 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?bycoca
 #https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?bycoca
 #EXTINF:0 group-title="Kênh Quốc Tế" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png"tvg-chno="237",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?bycoca
-#EXTINF:0 group-title="Kênh Quốc Tế" tvg-logo="https://media4.giphy.com/media/26hirKDWxy7WcdU5i/200.gif" tvg-chno="238",UFC
+#EXTINF:0 group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1280px-UFC_Logo.svg.png" tvg-chno="238",UFC
 #EXTVLCOPT:http-user-agent="ChauTien"
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?bycoca
 #https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?bycoca
-#EXTINF:0 tvg-id="mtvhd" group-title="Kênh Quốc Tế", tvg-logo="https://i.gifer.com/embedded/download/QcT2.gif" tvg-chno="239",MTV Asia
+#EXTINF:0 tvg-id="mtvhd" group-title="Kênh Quốc Tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" tvg-chno="239",MTV Asia
 #EXTVLCOPT:http-user-agent="ChauTien"
 #https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
@@ -931,11 +931,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:0 group-title="Kênh Quốc Tế", tvg-logo="https://lh3.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g" tvg-chno="259",Midnite Secrets
 #EXTVLCOPT:http-user-agent="ChauTien"
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?bycoca
-#EXTINF:0 group-title="Kênh Quốc Tế", tvg-logo="https://i.ibb.co/JBWv5Mb/received-930124617584913.gif" tvg-chno="260",18+ Only
+#EXTINF:0 group-title="Kênh Quốc Tế", tvg-logo="https://i.pinimg.com/736x/34/b1/f2/34b1f24725f64a426f5de771152ce790.jpg" tvg-chno="260",18+ Only
 #EXTVLCOPT:http-user-agent="ChauTien"
 http://gg.gg/cc-18|Referer=http://vaophim.org/
 
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://media2.giphy.com/media/yMV6UwELtfsGsUb6yf/giphy.gif" tvg-chno="261",Thử Nghiệm
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://w7.pngwing.com/pngs/695/776/png-transparent-color-television-test-card-bubble-small-to-pull-creative-tv-free-television-free-logo-design-template-rectangle-thumbnail.png" tvg-chno="261",Thử Nghiệm
 #EXTVLCOPT:http-user-agent="ChauTien"
 http://gg.gg/cclive1|Referer=https://sctvonline.vn/
 #EXTINF:0 group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-chno="262",Bein_Sport 1
